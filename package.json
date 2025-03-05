@@ -1,0 +1,50 @@
+{
+  "name": "my-projects",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroui/modal": "^2.2.12",
+    "@heroui/system": "^2.4.11",
+    "@heroui/theme": "^2.4.11",
+    "@phosphor-icons/react": "^2.1.7",
+    "@radix-ui/react-avatar": "^1.1.3",
+    "@radix-ui/react-dialog": "^1.1.6",
+    "@radix-ui/react-dropdown-menu": "^2.1.6",
+    "@radix-ui/react-slot": "^1.1.2",
+    "@tabler/icons-react": "^3.30.0",
+    "aos": "^2.3.4",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.4.7",
+    "install": "^0.13.0",
+    "lucide-react": "^0.476.0",
+    "mini-svg-data-uri": "^1.4.4",
+    "motion": "^12.4.7",
+    "next": "15.2.0",
+    "next-themes": "^0.4.4",
+    "npm": "^11.1.0",
+    "phosphor": "^0.7.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "tailwind-merge": "^3.0.2",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/aos": "^3.0.7",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.9",
+    "typescript": "^5"
+  }
+}
